@@ -24,3 +24,8 @@
 ### The BACK-PROPAGATION algorithm
 - The BACKPROPAGATION algorithm learns the weights for a multilayer network
 - Assumes the network is a fixed structure that corresponds to a directed graph, possibly containing cycles. Learning corresponds to choosing a weight value for each egde in the graph
+
+## References
+- http://www.cs.cmu.edu/~./awm/tutorials/neural.html
+- https://www.udemy.com/image-recognition-with-neural-networks-from-scratch/
+- http://neuralnetworksanddeeplearning.com/
