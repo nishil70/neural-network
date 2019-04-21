@@ -3,7 +3,7 @@
 ## Contributors
 - Nishil Parmar
 
-## Datasets
+## Dataset
 - [MNIST database](https://en.wikipedia.org/wiki/MNIST_database)
 
 ## Implementions
