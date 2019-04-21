@@ -14,7 +14,7 @@
 ### Perceptrons
 - Perceptrons can represent all of the primitive boolean functions AND, OR, NAND, and NOR. This ability is important because every boolean function can be represented by some network of interconnected units based on these primitives
   
-  #### Gradient Descent
+  #### Gradient Descent and delta rule
   - If training examples are not linearly separable, the delta rule converges toward a best-fit approximation to the target concept.
   - Key idea behind delta rule is to use gradient descent to search the hypothesis space of possible weight vectors to find the weights that best fits the training examples.
   - The hypothesis that minimizes E is also the most probable hypothesis in H given the training data
