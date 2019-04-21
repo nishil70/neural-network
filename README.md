@@ -29,3 +29,4 @@
 - http://www.cs.cmu.edu/~./awm/tutorials/neural.html
 - https://www.udemy.com/image-recognition-with-neural-networks-from-scratch/
 - http://neuralnetworksanddeeplearning.com/
+- Thomas M. Mitchell. 1997. Machine Learning (1 ed.). McGraw-Hill, Inc., New York, NY, USA. 
