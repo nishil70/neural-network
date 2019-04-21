@@ -25,6 +25,12 @@
 - The BACKPROPAGATION algorithm learns the weights for a multilayer network
 - Assumes the network is a fixed structure that corresponds to a directed graph, possibly containing cycles. Learning corresponds to choosing a weight value for each egde in the graph
 
+## Project Files
+- ## Project Files
+- [MNIST handwritten digits classification](https://github.com/nishil70/HiddenMarkovModel/blob/master/notebooks/1_preprocessing.ipynb)
+- [Neural network implementation](https://github.com/nishil70/HiddenMarkovModel/blob/master/notebooks/2_building-dictionary.ipynb)
+
+
 ## References
 - http://www.cs.cmu.edu/~./awm/tutorials/neural.html
 - https://www.udemy.com/image-recognition-with-neural-networks-from-scratch/
