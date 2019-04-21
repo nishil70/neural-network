@@ -1,5 +1,15 @@
 # Neural Network
 
+## Contributors
+- Nishil Parmar
+
+## Datasets
+- [MNIST database](https://en.wikipedia.org/wiki/MNIST_database)
+
+## Implementions
+- Neural Network
+  - feed forward neural network with backpropagation learning
+
 ## Perceptrons
 - Perceptrons can represent all of the primitive boolean functions AND, OR, NAND, and NOR. This ability is important because every boolean function can be represented by some network of interconnected units based on these primitives
 
