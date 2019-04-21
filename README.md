@@ -26,7 +26,7 @@
 - Assumes the network is a fixed structure that corresponds to a directed graph, possibly containing cycles. Learning corresponds to choosing a weight value for each egde in the graph
 
 ## Project Files
-- [MNIST handwritten digits classification](https://github.com/nishil70/neural-network/blob/master/notebooks/mnist-classification-using-nn.ipynb)
+- [MNIST data classification using Neural Network](https://github.com/nishil70/neural-network/blob/master/notebooks/mnist-classification-using-nn.ipynb)
 - [Neural network implementation](https://github.com/nishil70/neural-network/blob/master/models/NeuralNetworkUtility.py)
 
 
